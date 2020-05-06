@@ -1,0 +1,160 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.10.1",
+	"appid": "wx953ee5ce746fa704",
+	"projectname": "map",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/serach/index",
+					"pathName": "pages/serach/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "pages/state/index",
+					"pathName": "pages/state/index",
+					"query": "scene= 9641, 13982 ,11333,8933,9250,9266",
+					"scene": 1011
+				},
+				{
+					"id": -1,
+					"name": "pages/Store/index",
+					"pathName": "pages/Store/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/xzsj/index",
+					"pathName": "pages/xzsj/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/Store/index",
+					"pathName": "pages/Store/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/Posterz/index",
+					"pathName": "pages/Posterz/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/Posterf/index",
+					"pathName": "pages/Posterf/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "pages/state/index",
+					"pathName": "pages/state/index",
+					"query": "scene= 8815",
+					"scene": 1011
+				},
+				{
+					"id": -1,
+					"name": "pages/scposter/index",
+					"pathName": "pages/scposter/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/Posterzxz/index",
+					"pathName": "pages/Posterzxz/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/index/index",
+					"pathName": "pages/index/index",
+					"query": "scene=123",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/xzsj/index",
+					"pathName": "pages/xzsj/index",
+					"query": "scene=123",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/Posterz/index",
+					"pathName": "pages/Posterz/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/smindex/index",
+					"pathName": "pages/smindex/index",
+					"query": "scene='32,38,42'",
+					"scene": null
+				}
+			]
+		}
+	}
+}
